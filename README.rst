@@ -50,7 +50,7 @@ Example project can be found in ``pylvappbuilder/example/``. To try it out, one 
 Documentation
 -------------
 
-Currently there is no formal documentation created for this API. All the functions have however self-explanatory names and are documented in the code. Additionally, library includes ``act`` submodule which defines actions that seem to represent the most common usage of the API. **Actions defined in ``act`` submodule can be used by pydodit as they are, or they can be used as templates for defining other actions.**
+Currently there is no formal documentation created for this API. All the functions have however self-explanatory names and are documented in the code. Additionally, library includes ``act`` submodule which defines actions that seem to represent the most common usage of the API. **Actions defined in** ``act`` **submodule can be used by pydodit as they are, or they can be used as templates for defining other actions.**
 
 
 
