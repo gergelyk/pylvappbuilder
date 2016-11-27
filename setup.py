@@ -10,7 +10,7 @@ from setuptools import setup
 #    sys.exit('Operatings systems other than Windows are not supported.')
 
 package = 'lvappbuilder'
-version = open(Path() / package / VERSION).read().strip()
+version = open(Path() / package / 'VERSION').read().strip()
 
 setup(name=package,
       version=version,
