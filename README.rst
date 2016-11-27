@@ -16,7 +16,7 @@ Primarly pylvappbuilder was intended to provide it's functionality to `pydoit <h
 * Possibility of defining Conditional Disable Symbols for each build of the LabVIEW project.
 * Possibility of sourcing separate builds with the same version number without need of editing LabVIEW project manually.
 
-In conjunction with pydoit, additional **user-defined** actions can be defined too. For instance:
+In conjunction with pydoit, additional **user-defined actions** can be specified too. For instance:
 
 * Running tests againgst the sources.
 * Building a package based on LabVIEW project.
