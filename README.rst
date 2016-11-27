@@ -3,6 +3,10 @@ pylvappbuilder
 
 API for LabVIEW Application Builder.
 
+`Sources <https://github.com/gergelyk/pylvappbuilder>`_
+
+`Package <https://pypi.python.org/pypi/lvappbuilder>`_
+
 Introduction
 ------------
 
@@ -37,7 +41,7 @@ Example project can be found in ``pylvappbuilder/example/``. To try it out, one 
 
 1. Make sure that LabVIEW 2015, Python interpreter, as well as the packages: ``pylvappbuilder`` and ``doit`` are installed in the system.
 2. Close all instances of LabVIEW (or they will be killed otherwise).
-3. Open system shell prompt in `pylvappbuilder/example` and invoke:
+3. Open system shell prompt in ``pylvappbuilder/example`` and invoke:
 
 ::
 
