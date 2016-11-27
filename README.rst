@@ -37,13 +37,25 @@ Example project can be found in ``pylvappbuilder/example/``. To try it out, one 
 3. Open system shell prompt in `pylvappbuilder/example` and invoke:
 
 ::
+
     doit
 
 3. As an effect, two variants of the project will be built and stored in subdirectories ``build\Debug`` and ``build\Release``.
 4. Finally workspace can be cleaned by invoking:
 
 ::
+
     doit clean
+
+Documentation
+-------------
+
+Currently there is no formal documentation created for this API. All the functions have however self-explanatory names and are documented in the code. Additionally, library includes ``act`` submodule which defines actions that seem to represent the most common usage of the API. **Actions defined in ``act`` submodule can be used by pydodit as they are, or they can be used as templates for defining other actions.**
+
+
+
+
+
 
 
 
