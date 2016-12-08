@@ -33,6 +33,6 @@ def build(proj_path, target, build_spec, version, symbols, repl_in_file, lv_bits
     finally:
         print('Restoring original files from backups...')
         for fp in modif_files:
-            sh.restore(proj_path)
+            sh.restore(fp)
         print('Done.')
         print()
